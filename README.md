@@ -83,6 +83,12 @@ An app to explore React.js fundamentals and to fetch data from a real API. It de
   npm install bootstrap@4.0.0
   ```
 
+* OMDB API 
+  ```sh
+  Generate an API key to use the Movie API via below link
+  https://www.omdbapi.com/
+  ```
+
 ### Installation
 
 1. Clone the repo
