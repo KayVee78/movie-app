@@ -40,7 +40,7 @@ An app to explore React.js fundamentals and to fetch data from a real API. It de
 
 <dl>
   <dt>Index.js</dt>
-  <dd>Entry point to the server.</dd>
+  <dd>Entry point to the application</dd>
   <dt>App.js</dt>
   <dd>Main component of the entire application.</dd>
   <dt>package.json</dt>
@@ -98,9 +98,6 @@ An app to explore React.js fundamentals and to fetch data from a real API. It de
 2. Install NPM packages
    ```sh
    cd client/
-   npm install
-   
-   cd server/
    npm install
    
 3. To run the project
