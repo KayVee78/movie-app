@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <p align="center">
-   Applicatio to search movies
+   Application to search movies
     <br />
     <br />
   </p>
