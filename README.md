@@ -9,8 +9,9 @@
     <br />
     <br />
   </p>
-  ![movie-app](https://github.com/KayVee78/movie-app/assets/90994452/d4bf8289-610c-427f-bca8-efb56b216625)
 </div>
+
+![movie-app](https://github.com/KayVee78/movie-app/assets/90994452/5b161407-63e5-4a50-8e04-187ad8ce65df)
 
 <!-- TABLE OF CONTENTS -->
 <details>
